@@ -10,9 +10,9 @@
 // ==/UserScript==
 
 var css = `
-    .a3s { font: small/1.5 monospace !important; }
-    .ii, .Ak { font: small monospace !important; }
-    .editable { font: small monospace !important; }
+    .a3s { font: small/1.5 'Source Code Pro', monospace !important; }
+    .ii, .Ak { font: small 'Source Code Pro', monospace !important; }
+    .editable { font: small 'Source Code Pro', monospace !important; }
 `;
 
 if (typeof GM_addStyle != "undefined") {
