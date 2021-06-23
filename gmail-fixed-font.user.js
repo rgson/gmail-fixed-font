@@ -1,9 +1,8 @@
 // ==UserScript==
 // @name           Gmail Fixed Font
-// @namespace      https://www.indelible.org/
-// @homepageURL    https://github.com/jparise/gmail-fixed-font
+// @homepageURL    https://github.com/rgson/gmail-fixed-font
 // @description    Fixed-font message bodies for Gmail
-// @author         Jon Parise, James Tunnicliffe
+// @author         Jon Parise, James Tunnicliffe, Robin Gustafsson
 // @version        1.50
 // @include        https://mail.google.com/*
 // @include        https://*.mail.google.com/*
@@ -29,4 +28,3 @@ if (typeof GM_addStyle != "undefined") {
         heads[0].appendChild(node);
     }
 }
-
