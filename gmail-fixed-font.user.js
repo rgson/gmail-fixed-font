@@ -3,7 +3,7 @@
 // @homepageURL    https://github.com/rgson/gmail-fixed-font
 // @description    Fixed-font message bodies for Gmail
 // @author         Jon Parise, James Tunnicliffe, Robin Gustafsson
-// @version        1.50
+// @version        1.50.1
 // @include        https://mail.google.com/*
 // @include        https://*.mail.google.com/*
 // @grant          GM_addStyle
